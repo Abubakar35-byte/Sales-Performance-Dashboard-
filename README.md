@@ -42,6 +42,7 @@ Highlighted regional sales trends and profit performance.
 Calculated growth metrics and profitability ratios to support decision-making.
 ## Dashboard
 <img width="1197" height="615" alt="Screenshot 2025-10-04 154454" src="https://github.com/user-attachments/assets/94362fb3-dd11-4e00-88b4-fa25756d9684" />
+
 ## Project Insights
 - Sales Growth:
 Total sales reached $2.29M, showing a 20.62% YoY increase, indicating healthy business expansion.
