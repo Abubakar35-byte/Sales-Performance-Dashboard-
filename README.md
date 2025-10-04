@@ -42,5 +42,20 @@ Highlighted regional sales trends and profit performance.
 Calculated growth metrics and profitability ratios to support decision-making.
 ## Dashboard
 <img width="1197" height="615" alt="Screenshot 2025-10-04 154454" src="https://github.com/user-attachments/assets/94362fb3-dd11-4e00-88b4-fa25756d9684" />
+## Project Insights
+- Sales Growth:
+Total sales reached $2.29M, showing a 20.62% YoY increase, indicating healthy business expansion.
+- Profit Performance:
+Profit grew by 14.41% YoY, reaching $286K, showing improved operational efficiency.
+- Orders & Quantity:
+Orders increased by 28.64%, and quantity sold rose by 27.45%, suggesting stronger customer demand.
+- Profit Margin Concern:
+Despite higher sales, profit margin dropped by 5.15%, hinting at increased costs or discounting strategies.
+- Top Categories:
+Technology contributed the highest profit ($286K), while Furniture and Office Supplies followed closely.
+-Regional Performance:
+Western states generated the most sales, with California leading at $457K, making it the top-performing region.
+- Top Subcategories:
+Phones and Chairs emerged as the most profitable subcategories, driving overall revenue growth.
 
 
