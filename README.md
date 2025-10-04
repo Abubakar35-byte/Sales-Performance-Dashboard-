@@ -20,3 +20,23 @@ Category Wise Profit & Sales Share: Shows top-performing categories (Furniture, 
 Top 5 Subcategories: Phones, Chairs, Storage, Tables, Binders.
 Dynamic Filters: By Year, Region, and Segment for interactive insights.
 - Dashboard Interaction <a href="https://github.com/Abubakar35-byte/Sales-Performance-Dashboard-/blob/main/Screenshot%202025-10-04%20154454.png">View Dashboard</a>
+## Process 
+- Data Collection
+Imported raw sales data from Excel (Superstore dataset).
+Data included fields like Order Date, Sales, Profit, Quantity, Category, and Region.
+- Data Cleaning & Transformation
+Removed duplicates and null values.
+Standardized date formats and column names.
+Created new calculated columns (like Profit Margin and Year of Order Date).
+- Data Analysis
+Used formulas such as SUMIFS, AVERAGEIFS, and growth rate calculations.
+Analyzed Year-over-Year (YoY) growth for Sales, Profit, and Orders.
+- Data Visualization
+Designed an interactive dashboard in Excel using:
+Charts (Column, Line, Doughnut, Bar).
+Slicers for filtering by Year, Region, and Segment.
+Applied a blue & purple gradient theme for a modern, professional look.
+- Insights & Reporting
+Identified top-performing subcategories (Phones & Chairs).
+Highlighted regional sales trends and profit performance.
+Calculated growth metrics and profitability ratios to support decision-making.
