@@ -19,3 +19,4 @@ Sales by State: Regional performance map visualization.
 Category Wise Profit & Sales Share: Shows top-performing categories (Furniture, Office Supplies, Technology).
 Top 5 Subcategories: Phones, Chairs, Storage, Tables, Binders.
 Dynamic Filters: By Year, Region, and Segment for interactive insights.
+- <a href="https://github.com/Abubakar35-byte/Sales-Performance-Dashboard-/blob/main/Screenshot%202025-10-04%20154454.png">Dataset</a>
